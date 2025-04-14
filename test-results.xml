@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0170" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2025-04-14T01:29:37" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="/" timestamp="2025-04-14T01:29:37" tests="2" file="/home/osboxes/projects/MSES602_HelloWorld/test/pages.js" time="0.0170" failures="0">
+    <testcase name="/ should return 200" time="0.0150" classname="should return 200">
+    </testcase>
+    <testcase name="/ should say &quot;Hello World.&quot;" time="0.0020" classname="should say &quot;Hello World.&quot;">
+    </testcase>
+  </testsuite>
+</testsuites>
